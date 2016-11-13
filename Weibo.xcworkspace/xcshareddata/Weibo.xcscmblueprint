@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "4120a313-8870-7a41-ac61-b73f773f5419",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "4120a313-8870-7a41-ac61-b73f773f5419" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "4120a313-8870-7a41-ac61-b73f773f5419" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "4C38ABA7-ADB9-4DB6-85B2-C2A678EEEEF1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "4120a313-8870-7a41-ac61-b73f773f5419" : "%E5%BE%AE%E5%8D%9A\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Weibo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "doc\/Weibo\/Weibo.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/192.168.1.107\/svn\/%E5%BE%AE%E5%8D%9A",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4120a313-8870-7a41-ac61-b73f773f5419"
+    }
+  ]
+}

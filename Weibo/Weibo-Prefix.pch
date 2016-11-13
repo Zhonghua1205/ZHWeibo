@@ -1,0 +1,24 @@
+//
+//  Weibo-Prefix.pch
+//  Weibo
+//
+//  Created by 卢中华 on 2016/11/7.
+//  Copyright © 2016年 卢中华. All rights reserved.
+//
+
+#ifndef Weibo_Prefix_pch
+#define Weibo_Prefix_pch
+// 第三方框架
+#import <AFNetworking/AFNetworking.h>
+#import "UIImageView+WebCache.h"
+#import <Masonry/Masonry.h>
+// 自定义类
+#import "WBNetworkingTools.h"
+#import "VisitorViewController.h"
+#import "WBNavigationController.h"
+// 自定义常量
+#import "WBConst.h"
+// Extension
+#import "UILabel+Extension.h"
+#import "UIButton+Extension.h"
+#endif /* Weibo_Prefix_pch */
